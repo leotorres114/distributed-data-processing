@@ -1,5 +1,3 @@
-
-
 if __name__ != '__lib__':
     def outputSchema(empty):
         return lambda x: x
